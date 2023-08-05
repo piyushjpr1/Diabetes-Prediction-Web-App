@@ -5,5 +5,5 @@ pydeck==0.8.1b0
 pyls-spyder==0.4.0
 scikit-learn==1.2.2
 scipy==1.10.1
-streamlit==1.23.1
-pickle==0.0.11
+streamlit==1.25.0
+pickle5==0.0.11
