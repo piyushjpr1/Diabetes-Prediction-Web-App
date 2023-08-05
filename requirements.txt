@@ -9,3 +9,4 @@ streamlit==1.25.0
 pickle5==0.0.11
 pyreadstat==1.2.2
 savReaderWriter==3.4.2
+pickle-mixin==1.0.2
