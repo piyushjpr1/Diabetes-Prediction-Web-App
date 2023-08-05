@@ -3,13 +3,6 @@ numpy==1.24.3
 pandas==2.0.2
 pydeck==0.8.1b0
 pyls-spyder==0.4.0
-Pympler==1.0.1
-pyparsing==3.0.9
-PyQt5==5.15.7
-PyQtWebEngine==5.15.4
-python-lsp-jsonrpc==1.0.0
-pywin32==305.1
-PyYAML==6.0
 scikit-learn==1.2.2
 scipy==1.10.1
 sklearn==0.0.post5
